@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+h4 {
+	padding-left: 25px;
+}
+
+#comment {
+	padding-left: 50px;
+}
